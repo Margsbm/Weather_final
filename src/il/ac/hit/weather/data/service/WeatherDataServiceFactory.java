@@ -12,6 +12,10 @@ public class WeatherDataServiceFactory  {
 	        return weatherDataFactory;
 	     }
 	  
+	    /**
+	     * @param url
+	     * @return WeatherDataServiceGetCurrentData obj
+	     */
 	    public static  IWeatherDataService getWeatherData(String url){
 	    	if(url.contains(OPEN_WEATHER_MAP)){
 	    		try{
