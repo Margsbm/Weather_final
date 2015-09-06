@@ -1,0 +1,17 @@
+2015-08-29 15:47:13,905 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 15:51:15,018 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 15:51:52,121 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 15:55:42,933 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 15:56:06,481 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 15:58:21,569 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 15:59:02,394 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 15:59:39,731 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 15:59:52,275 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 16:02:48,838 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 16:04:32,025 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 16:05:27,115 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 16:14:35,676 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 16:16:24,533 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-29 16:16:44,852 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-30 17:01:10,591 INFO  [AWT-EventQueue-0]: we in start of Gui
+2015-08-30 17:03:02,063 INFO  [AWT-EventQueue-0]: we in start of Gui
